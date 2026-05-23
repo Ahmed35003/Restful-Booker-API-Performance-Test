@@ -1,0 +1,8 @@
+# Ignore HTML Report folders
+*_Report/
+Reports_Output/
+
+# JMeter logs and temporary files
+*.log
+jmeter.log
+*.hprof
